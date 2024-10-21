@@ -36,7 +36,18 @@
     grid-area: cd;
 }
 
+.social-media {
+  text-align: center;
+}
 
+.social-media a {
+  margin: 0 10px;
+  color: #333;
+}
+
+.social-media a:hover {
+  color: #666;
+}
 .name {
     font-size: 2rem; /* Adjust font size as needed */
     margin-bottom: 1rem; /* Add some space below the name */
